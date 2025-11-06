@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selimmyrat</h1>
 <h3 align="center">I'm a front-end developer from Turkmenistan.</h3>
-    # 👋 Hi, I'm Selim
 
 💻 **Frontend Developer | React | TypeScript | UI/UX Enthusiast**
 
