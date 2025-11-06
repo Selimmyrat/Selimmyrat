@@ -21,5 +21,5 @@
 
 ### 🌐 Connect With Me
 - 📧 **Email:** gandymovselim@gmail.com
-- 💼 **LinkedIn:** [www.linkedin.com/in/selim-gandymov-44a684349](#)
+- 💼 **LinkedIn:** <a href="www.linkedin.com/in/selim-gandymov-44a684349">www.linkedin.com/in/selim-gandymov-44a684349</a>
 
