@@ -9,15 +9,15 @@
 ### 🚀 About Me
 - 🌱 Currently learning **React, TypeScript, Zustand, React Query, Tailwind CSS, and Feature-Sliced Design (FSD)**
 - 💡 Passionate about building **modern, user-friendly interfaces**
-- 🎯 Goal: to become a **Senior Frontend Developer** and craft **high-quality UX products**
-- 🧠 Focused on improving **UI/UX design and frontend architecture**
+- 🧠 Focused on improving **frontend architecture**
 - ✈️ Interested in **interactive maps, animations, and data visualization**
 
 ---
 
 ### 🛠️ Tech Stack
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind,antdesign,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind,figma,git,github" />
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.svg" width="48" height="48" alt="Zustand" title="Zustand" />
 </div>
 
 
