@@ -17,7 +17,6 @@
 ### 🛠️ Tech Stack
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind,figma,git,github" />
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.svg" width="48" height="48" alt="Zustand" title="Zustand" />
 </div>
 
 
