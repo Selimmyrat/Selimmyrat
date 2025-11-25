@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **React, TypeScript, Zustand, React Query, Tailwind CSS, and Feature-Sliced Design (FSD)**
+- 🌱 Currently learning **React, Next.JS, TypeScript, Zustand, React Query, Tailwind CSS, and Feature-Sliced Design (FSD)**
 - 💡 Passionate about building **modern, user-friendly interfaces**
 - 🧠 Focused on improving **frontend architecture**
 - ✈️ Interested in **interactive maps, animations, and data visualization**
