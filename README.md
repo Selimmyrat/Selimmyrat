@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selimmyrat</h1>
+<h1 align="center">Hi 👋, I'm Selim</h1>
 <h3 align="center">I'm a front-end developer from Turkmenistan.</h3>
 
 💻 **Frontend Developer**
